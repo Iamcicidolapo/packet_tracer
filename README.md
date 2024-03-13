@@ -2,7 +2,8 @@
 
 # Benefit Of Packet Tracer
 
-Network Simulation: Packet Tracer enables users to simulate various network configurations, helping them understand how networks function without needing physical hardware.
+# Network Simulation:
+Packet Tracer enables users to simulate various network configurations, helping them understand how networks function without needing physical hardware.
 
 
 Cost-Effective Learning: Since Packet Tracer is free to use, it eliminates the need for expensive networking equipment, making it accessible for students and professionals on a budget.
